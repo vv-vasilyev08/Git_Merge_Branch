@@ -1,0 +1,11 @@
+ID: VKS-2525
+Author: Fintiflushka
+Assignment: Dev007
+Priority: Very High
+Title: [Ошибка] Preprod. Кнопка регистрации не активна на странице регистрации
+Environment: Preprod. Google Chrome version 110
+Preconditions: Открыть страницу https://xyz.com , перейти в раздел регистрации
+STR: Заполнить валидными данными поля регистрации и нажать кнопку зарегистрироваться
+ER: Регистрация успешно выполнена и на почту пришло письмо об успешной регистрации
+AR: Кнопка регистрации не активна после заполнения всех необходимых полей регистрации
+Attachments: Screenshot-001.png , Screencast-001.mp4
