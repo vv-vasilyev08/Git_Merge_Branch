@@ -36,7 +36,7 @@
 >ER: Регистрация успешно выполнена и на почту пришло письмо об успешной регистрации  
 >AR: Кнопка регистрации не активна после заполнения всех необходимых полей регистрации  
 >Attachments: Screenshot-001.png , Screencast-001.mp4  
->CTRL+D  
+>CTRL+C  
 >git add . && git commit -m "add bugreport"
 4. Запушить структуру багрепорта на внешний репозиторий
 >git push --set-upstream origin bagreports
@@ -53,7 +53,7 @@
 >3. Удалить приложение  
 >4. Установить из внутреннего-тестового маркет плейса  
 >5. Удалить приложение из маркет плейса  
->CTRL+D  
+>CTRL+C  
 >git add . && git commit -m "add checklist"
 8. Запушить структуру на внешний репозиторий
 >git push --set-upstream origin checklist
